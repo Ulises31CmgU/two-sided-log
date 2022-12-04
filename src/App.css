@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.App>:first-child{
+  width: 60%;
+}
+.App>:last-child{
+  width: 40%;
+}
+
